@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-<center> <img src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' align='center'> </center>
+
 
 
 ### <center> I'm a (soon to be) Machine learning Engineer 🤖 </center>
-
+<img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' />
 - 🔭 I’m currently working on the various projects on Machine learning.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about <strong>Machine learning</strong> and <strong> Python </strong>
