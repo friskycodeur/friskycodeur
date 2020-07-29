@@ -7,9 +7,9 @@
 <img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' />
 
 
-- 🔭 I’m currently working on the various projects on Machine learning.
+- 🔭 I’m currently working on various Natural Language Processing(NLP) based Machine Learning Projects.
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about <strong>Machine learning</strong> and <strong> Python </strong>
+- 💬 Ask me about <strong>Machine learning</strong>,<strong>Data Science</strong> and <strong> Python </strong>
 - 😄 Reach me here:friskycodeur@gmail.com
 - ⚡ Fun fact: When anxious I start dancing like crazy 🕺
 
