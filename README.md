@@ -3,16 +3,15 @@
 
 
 
-### <center> I'm a (soon to be) Machine learning Engineer 🤖 </center>
+### <center> I'm Prateek </center>
 <img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' />
 
 
-- 🔭 I’m currently working on various Natural Language Processing(NLP) based Machine Learning Projects.
-- 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about <strong>Machine learning</strong>,<strong>Data Science</strong> and <strong> Python </strong>
+- 🔭 I’m currently working on a personal web developement project.
+- 🧑‍💻 I’m looking to collaborate on open source projects.
+- 💬 Ask me about <strong>Machine learning</strong>,<strong>Web Developement</strong> and <strong> Python </strong>
 - 😄 Reach me here:friskycodeur@gmail.com
-- ⚡ Fun fact: When anxious I start dancing like crazy 🕺
-
+- ⚡ Fun fact: I use dicsord for calls.
 
 ![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&hide_border=true&hide=["stars"])
 
