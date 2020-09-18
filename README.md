@@ -1,5 +1,5 @@
 
-### Hi there 👋 , Welcome to Prateek's Github !
+### <center> Hi there 👋 , Welcome to Prateek's Github ! </center>
 
 ---
 
