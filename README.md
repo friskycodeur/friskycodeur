@@ -1,9 +1,9 @@
 
-### Hi there 👋
+### Hi there 👋 , Welcome to Prateek's Github !
+
+---
 
 
-
-### <center> I'm Prateek </center>
 <img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' />
 
 
