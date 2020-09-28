@@ -11,7 +11,7 @@
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 - 💬 Ask me about <strong>Machine learning</strong>,<strong>Web Developement</strong> and <strong> Python </strong>
 - 😄 Reach me here:friskycodeur@gmail.com
-- ⚡ Fun fact: I use dicsord for calls.
+- ⚡ Fun fact: When not on laptop , you will find me on call , like always :P.
 
 ![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&hide_border=true&hide=["stars"])
 
