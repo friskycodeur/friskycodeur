@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 -->
 
-<img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' width='200' height='200' />
+<img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' width='300' height='200' />
 
 
 I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
@@ -31,7 +31,7 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 </p>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&hide_border=false"/>
-<h2 align="center" >Let's Connect ☺️</h2>
+<h2 align="center" >Let's Connect 😁</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/friskycodeur/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
