@@ -11,7 +11,7 @@
 
 I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 
-- 🔭 I’m currently looking for internship roles as a **Backend Developer**.
+- 🔭 I’m currently looking for internship roles as a **Django Developer**.
 - 🧑‍💻 I’m looking to collaborate on open source projects based on **Django**.
 - 💬 Ask me about **Machine learning**,**Web Developement** and **Python**.
 - ⚡ Fun fact: When not on laptop , you will find me on call , like always.
