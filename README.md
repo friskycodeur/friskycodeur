@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 -->
 
-<img align='right' src='https://media2.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif' width='300' height='200' />
+<img align='right' src='https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwBlFwbSWa-ZYTVw-694ANEc' width='300' height='200' />
 
 
 I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
