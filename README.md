@@ -18,7 +18,7 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 
 ### Techical Skills
 
-<p align="center">
+<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -32,7 +32,7 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true" alt="friskycodeur" /></p>
 
-## Connect with me  
+<h2 align="center"> Let's Connect 😃 </h2>  
 <div align="center">
 <a href="https://github.com/friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
