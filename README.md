@@ -30,9 +30,10 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true" alt="friskycodeur" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friskycodeur&layout=compact&hide=html" alt="friskycodeur" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true" alt="friskycodeur" /></p>
 
-<h2 align="center"> Let's Connect 😃 </h2>  
+<h2> Let's Connect 😃 </h2>  
 <div align="center">
 <a href="https://github.com/friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
