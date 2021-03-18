@@ -1,35 +1,65 @@
-<h2>Hello there, Welcome to <a  href="https://github.com/friskycodeur">Prateek's Github </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center"/> -->
+  <h1> Hello there,<br>Welcome to <a  href="https://github.com/friskycodeur">Prateek's Github </a> </h1>
+   <a href="https://twitter.com/moodyarrow"> <img src=https://img.shields.io/twitter/follow/moodyarrow? /> </a>  
+</div>
+<h1> About me </h1>
+<table border="0" table cellspacing="0" cellpadding="0" >
+ <tr>
+    <td>
+        <ul>
+          <li> <strong>Backend Web Developer</strong> in Django </li>
+          <li> Competitive Programmer with C++. </li>
+          <li> Experienced in Machine Learning. </li>
+          <li> Currently learning JavaScript. </li>
+          <li> Here's <strong>  <a href="https://drive.google.com/file/d/1RA2JFcaoaj9R3Tu5WJbfZb7IQ_GweUKY/view?usp=sharing" target="_blank"> my Resume.  </a></strong> </li>
+        </ul></b>
+    </td>
+    <td> 
+    
+   <img src='https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwBlFwbSWa-ZYTVw-694ANEc' style= "border-radius: 50%;" width='250' height='200' />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&theme=light" /> -->
+    </td>
+ </tr>
+</table>
 
-<img align='right' src='https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwBlFwbSWa-ZYTVw-694ANEc' width='300' height='200' />
+<h1> Tech Stack </h1>
+<table border="0" table cellspacing="0" cellpadding="0">
+  <tr>
+      <td>
+  <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
+  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
+  <!-- <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> -->
+  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
+  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<!--   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> -->
+  <hr>
+  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
+  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white />
+  <!-- <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white /> -->
+  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
+  <hr>
+  
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white />
+  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> -->
+  <!-- <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white />
+  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> -->
+  <hr>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+    </td>
+    <td>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=friskycodeur&theme=blue-green />
+    </td>
+   </tr>
+  </table>
 
+  <!-- Connect with me -->
 
-I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
-
-- 🔭 I’m currently looking for internship roles as a **Django Developer**.
-- 😁 I’m currently learning **JavaScript**.
-- 🧑‍💻 I’m looking to collaborate on open source projects based on **Django**.
-- 💬 Ask me about **Machine learning**,**Web Developement** and **Python**.
-- ⚡ Fun fact: When not coding , you will find me writing or gaming . 
-
-### Techical Skills
-
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-</p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friskycodeur&layout=compact&hide=html" alt="friskycodeur" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true" alt="friskycodeur" /></p>
-<br><br><br>
-<h2> Let's Connect 😃 </h2>  
+  <h1> Let's Connect 😃</h1>
+<div>
 <div align="center">
 <a href="https://github.com/friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -52,4 +82,7 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 <a href="https://medium.com/@friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
+<a href="https://dev.to/friskycodeur" target="_blank">
+<img alt="Dev.to blog" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=medium style="margin-bottom: 5px;"/ >
+</a> 
+</div>
