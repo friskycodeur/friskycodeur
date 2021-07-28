@@ -9,14 +9,14 @@
     <td>
         <ul>
           <li> <strong>Backend Web Developer</strong> in Django </li>
-          <li> Competitive Programmer with C++. </li>
-          <li> Experienced in Machine Learning. </li>
-          <li> Currently learning JavaScript. </li>
-          <li> Here's <strong>  <a href="https://drive.google.com/file/d/1RA2JFcaoaj9R3Tu5WJbfZb7IQ_GweUKY/view?usp=sharing" target="_blank"> my Resume.  </a></strong> </li>
+          <li> Competitive Programmer with C++ </li>
+          <li> Experienced in Machine Learning </li>
+          <li> Currently learning JavaScript </li>
+          <li> Here's <strong>  <a href="https://drive.google.com/file/d/1RA2JFcaoaj9R3Tu5WJbfZb7IQ_GweUKY/view?usp=sharing" target="_blank"> my resume.  </a></strong> </li>
         </ul></b>
     </td>
     <td> 
-    
+
    <img src='https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwBlFwbSWa-ZYTVw-694ANEc' style= "border-radius: 50%;" width='250' height='200' />
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&theme=light" /> -->
     </td>
@@ -61,9 +61,6 @@
   <h1> Let's Connect 😃</h1>
 <div>
 <div align="center">
-<a href="https://github.com/friskycodeur" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/moodyarrow" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
