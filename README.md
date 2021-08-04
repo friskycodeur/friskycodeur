@@ -1,74 +1,46 @@
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center"/> -->
-  <h1> Hello there,<br>Welcome to <a  href="https://github.com/friskycodeur">Prateek's Github </a> </h1>
-   <a href="https://twitter.com/moodyarrow"> <img src=https://img.shields.io/twitter/follow/moodyarrow? /> </a>  
+<img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="height:250px;width:550px;margin-bottom:2rem;"/>
 </div>
-<h1> About me </h1>
-<table border="0" table cellspacing="0" cellpadding="0" >
- <tr>
-    <td>
-        <ul>
-          <li> <strong>Backend Web Developer</strong> in Django </li>
-          <li> Competitive Programmer with C++ </li>
-          <li> Experienced in Machine Learning </li>
-          <li> Currently learning JavaScript </li>
-          <li> Here's <strong>  <a href="https://drive.google.com/file/d/1RA2JFcaoaj9R3Tu5WJbfZb7IQ_GweUKY/view?usp=sharing" target="_blank"> my resume.  </a></strong> </li>
-        </ul></b>
-    </td>
-    <td> 
+<h1 align="center">Hi 👋, I'm Prateek Maheshwari</h1>
+<p align="center">Enthusiastic <a href="https://friskycodeur.github.io/resume/">backend web developer 👨‍💻 </a>, eager to contribute to turning interesting ideas into reality through hard work,persistence and a clear understanding of backend, and project management.</p>
 
-   <img src='https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwBlFwbSWa-ZYTVw-694ANEc' style= "border-radius: 50%;" width='250' height='200' />
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=friskycodeur&show_icons=true&theme=light" /> -->
-    </td>
- </tr>
-</table>
+<!-- <div align="center">
+<a href="https://twitter.com/moodyarrow"> <img src=https://img.shields.io/twitter/follow/moodyarrow? /> </a>
+</div> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=friskycodeur" alt="friskycodeur" /> </p> -->
 
-<h1> Tech Stack </h1>
-<table border="0" table cellspacing="0" cellpadding="0">
-  <tr>
-      <td>
-  <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
-  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-  <!-- <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> -->
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<!--   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> -->
-  <hr>
-  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
-  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white />
-  <!-- <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white /> -->
-  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-  <hr>
-  
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <!-- <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white />
-  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> -->
-  <!-- <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white />
-  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> -->
-  <hr>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-    </td>
-    <td>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=friskycodeur&theme=blue-green />
-    </td>
-   </tr>
-  </table>
+- 🔭 I’m currently working on [tell-your-story](https://github.com/friskycodeur/tell-your-story)
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on [Curated Project List](https://github.com/friskycodeur/curated-project-list)
+<!-- - 🤝 I’m looking for help with [Material-Listed](https://github.com/) -->
+- 👨‍💻 All of my projects are available at [https://github.com/friskycodeur](https://github.com/friskycodeur)
+- 📝 I also write articles on [https://medium.com/@friskycodeur](https://medium.com/@friskycodeur)
+- 💬 Ask me about **Django, & Open Source**
+- 📫 How to reach me **friskycodeur@gmail.com**
+- ⚡ Fun fact **I prefer Cold Coffee over Hot Coffee**
 
-  <!-- Connect with me -->
+## Tech Stack
 
-  <h1> Let's Connect 😃</h1>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=friskycodeur&&theme=blue-green" alt="friskycodeur" /></p>
+
+## Let's Connect 😃
+
 <div>
-<div align="center">
-<a href="https://stackoverflow.com/users/14524669" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+<div>
 <a href="https://linkedin.com/in/friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/2310prateek/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/moodyarrow" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@friskycodeur" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
@@ -76,4 +48,7 @@
 <a href="https://dev.to/friskycodeur" target="_blank">
 <img alt="Dev.to blog" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=medium style="margin-bottom: 5px;"/ >
 </a> 
+<a href="https://stackoverflow.com/users/14524669" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 </div>
