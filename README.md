@@ -12,12 +12,12 @@
 - 🔭 I’m currently working on [tell-your-story](https://github.com/friskycodeur/tell-your-story)
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on [Curated Project List](https://github.com/friskycodeur/curated-project-list)
-<!-- - 🤝 I’m looking for help with [Material-Listed](https://github.com/) -->
 - 👨‍💻 All of my projects are available at [https://github.com/friskycodeur](https://github.com/friskycodeur)
 - 📝 I also write articles on [https://medium.com/@friskycodeur](https://medium.com/@friskycodeur)
-- 💬 Ask me about **Django, & Open Source**
+- 💬 Ask me about **Django, Open Source & Life**
 - 📫 How to reach me **friskycodeur@gmail.com**
 - ⚡ Fun fact **I prefer Cold Coffee over Hot Coffee**
+<!-- - 🤝 I’m looking for help with [Material-Listed](https://github.com/) -->
 
 ## Tech Stack
 
