@@ -1,54 +1,21 @@
-<div align="center">
-<img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="height:250px;width:550px;margin-bottom:2rem;"/>
-</div>
-<h1 align="center">Hi 👋, I'm Prateek Maheshwari</h1>
-<p align="center">Enthusiastic <a href="https://friskycodeur.github.io/resume/">backend web developer 👨‍💻 </a>, eager to contribute to turning interesting ideas into reality through hard work,persistence and a clear understanding of backend, and project management.</p>
+# 💫 About Me:
+🔭 I’m looking to contribute to Open Source Projects.<br>🌱 I’m currently learning Data Structures and Algorithms<br>🤝 I'm looking for help with Networking<br>💬 Ask me about Python and Java<br>⚡ Fun fact I prefer Cold Coffee over Hot Coffee
 
-<!-- <div align="center">
-<a href="https://twitter.com/moodyarrow"> <img src=https://img.shields.io/twitter/follow/moodyarrow? /> </a>
-</div> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=friskycodeur" alt="friskycodeur" /> </p> -->
 
-- 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 👯 I’m looking to collaborate on [Curated Project List](https://github.com/friskycodeur/curated-project-list)
-- 👨‍💻 All of my projects are available at [https://github.com/friskycodeur](https://github.com/friskycodeur)
-- 📝 I also write articles on [https://medium.com/@friskycodeur](https://medium.com/@friskycodeur)
-- 💬 Ask me about **Python, Django, Open Source & Life**
-- 📫 How to reach me **friskycodeur@gmail.com**
-- ⚡ Fun fact **I prefer Cold Coffee over Hot Coffee**
-<!-- - 🤝 I’m looking for help with [Material-Listed](https://github.com/) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/friskycodeur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@friskycodeur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/moodyarrow) 
 
-## Tech Stack
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=friskycodeur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=friskycodeur&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=friskycodeur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=friskycodeur&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=friskycodeur&&theme=blue-green" alt="friskycodeur" /></p>
-
-## Let's Connect 😃
-
-<div>
-<div>
-<a href="https://linkedin.com/in/friskycodeur" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/2310prateek/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/moodyarrow" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@friskycodeur" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-<a href="https://dev.to/friskycodeur" target="_blank">
-<img alt="Dev.to blog" src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=medium style="margin-bottom: 5px;"/ >
-</a> 
-<a href="https://stackoverflow.com/users/14524669" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
